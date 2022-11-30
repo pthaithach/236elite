@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Elite Nail & Spa",
+        "slug"      : "Elite-nail-spa",
+        "phone"     : "(915) 856-7717",
+        "email"     : "toanthuy2808@yahoo.com",
+        "state"     : "Texas 79938",
+        "address"   : "2230 N Zaragoza Rd #103, El Paso, TX 79938",
+        "time_1"    : "Mon - Sat: 09:30 AM - 07:30 PM",
+        "time_2"    : "Sun: 11:00 AM - 05:00 PM"
+
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/elitenailsandspaelpaso",
+        "instagram" :   "https://www.instagram.com/elite_nails_spa_el_paso",
+        "google"    :   "https://goo.gl/maps/Zc3hyGmTsisCxzqH8",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTE5Mzh8ZWxpdGUyMjMwfFRYXzA4Mjg4fDhlMDg1ZWEyZGE4MDA1ODNhNDhlZDlmMjZjODk5N2Iy",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3391.8935734971947!2d-106.25679454875784!3d31.773388541690675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e7441fa57659d7%3A0x519fd0553dec8246!2sElite%20Nail%20%26%20Spa!5e0!3m2!1sen!2s!4v1669705228529!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#8f6b2b",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#d5a042",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#c09333",
+        "text_primary_hover"    :   "#c09333",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "./img",
+    "domain":       "http://127.0.0.1:5501/"
+}
